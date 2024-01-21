@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "503379766778",
+    "project_id": "lactgo-58ac3",
+    "storage_bucket": "lactgo-58ac3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503379766778:android:e2da7e58602e09dc52c843",
+        "android_client_info": {
+          "package_name": "com.example.lactgo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4MrQwI66AVp8htsZszcUp7O2jNCke0pE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503379766778:android:f3abbae001041ecc52c843",
+        "android_client_info": {
+          "package_name": "com.example.lactgo_dashbard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4MrQwI66AVp8htsZszcUp7O2jNCke0pE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503379766778:android:75e763a5add33b6152c843",
+        "android_client_info": {
+          "package_name": "com.example.lactgo_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4MrQwI66AVp8htsZszcUp7O2jNCke0pE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
